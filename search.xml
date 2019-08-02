@@ -3,7 +3,7 @@
   <entry>
     <title><![CDATA[fileName]]></title>
     <url>%2F2019%2F08%2F02%2FfileName%2F</url>
-    <content type="text"></content>
+    <content type="text"><![CDATA[12345678910111213//我在这里添加代码，然后测试一下 void main() &#123; bool flag if(false == flag) &#123; print(&quot;i love you !!&quot;); &#125; else &#123; print(&quot;i dislike U !!&quot;); &#125; &#125; 然后我再在这里添加一张图片]]></content>
       <categories>
         <category>测试</category>
       </categories>
